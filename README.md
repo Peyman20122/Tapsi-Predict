@@ -56,7 +56,8 @@ The server will now be running at `http://127.0.0.1:8000`.
 
 To send data to the API and get predictions, you can use tools like **Postman** or **curl**.
 
-![image-20250502225342248](C:\Users\peyman\AppData\Roaming\Typora\typora-user-images\image-20250502225342248.png)
+![image](https://github.com/user-attachments/assets/5717e632-405e-47e5-aacd-84e55415b9dd)
+
 
 #### POST Request:
 
@@ -112,7 +113,7 @@ If the input data is missing required fields, the API will return an error messa
 
 2. This project is set up to run locally, but you can deploy it on a server or platforms like Heroku or AWS for production use.
 
-   ![image-20250502225426098](C:\Users\peyman\AppData\Roaming\Typora\typora-user-images\image-20250502225426098.png)
+![image](https://github.com/user-attachments/assets/e6755abc-c20e-45e9-8738-67b38590befe)
 
 ## Files
 
